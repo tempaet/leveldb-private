@@ -10,3 +10,5 @@ out/
 #clangd cache
 .cache
 
+#jetbrains idea config
+.idea
